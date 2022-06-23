@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1638912217 source:c:\users\hugob\onedrive\햞ea de trabalho\codigo\pasta de debug\debug\main.c
+	<gl/gl.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"SOIL.h"
+
+1638910586 c:\users\hugob\onedrive\햞ea de trabalho\codigo\pasta de debug\debug\soil.h
+
+1639419170 source:c:\users\hugob\onedrive\햞ea de trabalho\codigo\pasta de debug\tp1\main.c
+	<gl/gl.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"SOIL.h"
+
+1638910586 c:\users\hugob\onedrive\햞ea de trabalho\codigo\pasta de debug\tp1\soil.h
+
