@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1644250475 source:c:\users\hugob\onedrive\Área de trabalho\testesopengl\testesis\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<GL/gl.h>
+
+1616966577 c:\msys64\mingw64\include\gl\glut.h
+	"freeglut_std.h"
+
+1616966577 c:\msys64\mingw64\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1644252467 source:d:\estudos\2021.2\codigo\testesopengl\testesis\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<GL/glu.h>
+	<GL/glext.h>
+	<GL/gl.h>
+
